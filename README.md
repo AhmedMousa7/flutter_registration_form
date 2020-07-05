@@ -1,6 +1,6 @@
 # registeration_form
 
-Registration for task for AreebGroup flutter initiative.
+Registration form task for AreebGroup flutter initiative.
 
 Here is the Gif for the app working.
 
